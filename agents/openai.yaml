@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma Market Screenshot Localizer"
+  short_description: "Create and revise localized Figma market screenshot sections."
+  default_prompt: "Use $figma-market-screenshot-localizer to create or revise localized Figma market screenshot sections."
